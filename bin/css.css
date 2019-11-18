@@ -1,0 +1,46 @@
+.btn{
+    justify-content:space-between;
+    flex-grow: 1;
+    margin: 0 2px 0 2px ;
+}
+#inputFile{
+    display: none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    text-align: center;
+
+}
+
+li:last-child {
+    border-bottom: none;
+}
+/*.dr{*/
+    /*position: absolute;*/
+/*}*/
+
+/*body{*/
+    /*cursor: none;*/
+/*}*/
+#canvas{
+    cursor:  none;
+    border: solid 2px #006dd6;
+}
+.btnc{
+    flex-direction: column;
+    justify-content:space-between;
+    flex-grow: 1;
+    margin: 0 2px 0 2px ;
+}
+.row{
+    height: 66px;
+}
+.alinck {
+    display: none;
+
+}
